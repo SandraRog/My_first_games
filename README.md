@@ -11,21 +11,21 @@ Second game - eating hamburgers in McDonald.
    ```bash
    cd path/to/game/directory
 
-Run the game by executing:
+# Run the game by executing:
 
 bash
 Copy code
 python my_first_games.py
 
-Game Rules
+# Game Rules
 You have 30sec for eating maximum hamburgers in McDonalds.
 
-Requirements
+# Requirements
 Python 3.11
 pygame 2.5.2
 
-Authors
+# Authors
 Sandra Rogacka (@SandraRog)
 
-Acknowledgments
+# Acknowledgments
 Thanks to tutorials from https://www.youtube.com/@DooMx
